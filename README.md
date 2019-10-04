@@ -12,3 +12,7 @@ Click module is a great tool to build command line applications. I made a simple
 ## Check cli
 
 - ```bert```
+
+<p align="center">
+<img src="https://github.com/Alro10/click-example/blob/master/bert_cli.png" alt="alt text" width="70%" height="60%">
+</p>
