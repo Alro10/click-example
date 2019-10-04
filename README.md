@@ -10,3 +10,5 @@ Click module is a great tool to build command line applications. I made a simple
 - ```pip install --editable .```
 
 ## Check cli
+
+- ```bert```
