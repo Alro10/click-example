@@ -1,8 +1,9 @@
 import click
 
-from command1 import feature_name
+from command1 import test1_name
+from command2 import test2_name
 
-commands = click.CommandCollection(sources=[feature_name])
+commands = click.CommandCollection(sources=[test1_name, test2_name])
 
 
 def cli():
