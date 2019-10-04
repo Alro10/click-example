@@ -1,4 +1,4 @@
-mport click
+import click
 
 @click.group()
 def test_name():
@@ -6,7 +6,7 @@ def test_name():
 
 @test_name.command()
 @click.option('--parameter-first', default='This is the default value',
-              help='This is the help message for this command')
+              help='This is the help message for command 2)
 def test(parameter_first):
     # Do something with the parameter
     click.echo(parameter_first)
